@@ -1,3 +1,3 @@
 # AWS-SAA
 
-AWS-SAA学習を日記にしてGithubを使っているだけです。
+AWS-SAA学習の過程を日記にしてGithubを使っているだけです。
